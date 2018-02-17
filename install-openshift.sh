@@ -2,7 +2,7 @@
 
 ## see: https://www.youtube.com/watch?v=-OOnGK-XeVY
 
-export DOMAIN=${DOMAIN:="$(curl ipinfo.io/ip).nip.io"}
+export DOMAIN=${DOMAIN:="libancoin.com"}
 export USERNAME=${USERNAME:="$(whoami)"}
 export PASSWORD=${PASSWORD:=password}
 export VERSION=${VERSION:="v3.7.0"}
